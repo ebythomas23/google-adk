@@ -1,0 +1,63 @@
+2025-10-24 23:14:11,268 - DEBUG - [server.py:157] - Initializing server 'multi-tool-calculator'
+2025-10-24 23:14:11,268 - DEBUG - [server.py:414] - Registering handler for ListToolsRequest
+2025-10-24 23:14:11,268 - DEBUG - [server.py:486] - Registering handler for CallToolRequest
+2025-10-24 23:14:11,268 - INFO - [server.py:149] - MCP Calculator Server launching...
+2025-10-24 23:14:11,268 - DEBUG - [selector_events.py:64] - Using selector: KqueueSelector
+2025-10-24 23:14:11,271 - INFO - [server.py:134] - Starting MCP server via stdio
+2025-10-24 23:14:11,273 - DEBUG - [server.py:627] - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-10-24 23:14:11,273 - DEBUG - [server.py:627] - Received message: <mcp.shared.session.RequestResponder object at 0x13a769450>
+2025-10-24 23:14:11,273 - INFO - [server.py:664] - Processing request of type ListToolsRequest
+2025-10-24 23:14:11,273 - DEBUG - [server.py:666] - Dispatching request of type ListToolsRequest
+2025-10-24 23:14:11,273 - INFO - [server.py:107] - Exposing MCP Tool: basic_math
+2025-10-24 23:14:11,273 - INFO - [server.py:107] - Exposing MCP Tool: power
+2025-10-24 23:14:11,273 - INFO - [server.py:107] - Exposing MCP Tool: modulus
+2025-10-24 23:14:11,273 - INFO - [server.py:107] - Exposing MCP Tool: square_root
+2025-10-24 23:14:11,274 - DEBUG - [server.py:713] - Response sent
+2025-10-24 23:14:23,159 - DEBUG - [server.py:627] - Received message: <mcp.shared.session.RequestResponder object at 0x13a7696d0>
+2025-10-24 23:14:23,159 - INFO - [server.py:664] - Processing request of type ListToolsRequest
+2025-10-24 23:14:23,159 - DEBUG - [server.py:666] - Dispatching request of type ListToolsRequest
+2025-10-24 23:14:23,159 - INFO - [server.py:107] - Exposing MCP Tool: basic_math
+2025-10-24 23:14:23,160 - INFO - [server.py:107] - Exposing MCP Tool: power
+2025-10-24 23:14:23,160 - INFO - [server.py:107] - Exposing MCP Tool: modulus
+2025-10-24 23:14:23,160 - INFO - [server.py:107] - Exposing MCP Tool: square_root
+2025-10-24 23:14:23,161 - DEBUG - [server.py:713] - Response sent
+2025-10-24 23:14:35,782 - DEBUG - [server.py:627] - Received message: <mcp.shared.session.RequestResponder object at 0x13a69a8b0>
+2025-10-24 23:14:35,783 - INFO - [server.py:664] - Processing request of type ListToolsRequest
+2025-10-24 23:14:35,783 - DEBUG - [server.py:666] - Dispatching request of type ListToolsRequest
+2025-10-24 23:14:35,783 - INFO - [server.py:107] - Exposing MCP Tool: basic_math
+2025-10-24 23:14:35,783 - INFO - [server.py:107] - Exposing MCP Tool: power
+2025-10-24 23:14:35,784 - INFO - [server.py:107] - Exposing MCP Tool: modulus
+2025-10-24 23:14:35,784 - INFO - [server.py:107] - Exposing MCP Tool: square_root
+2025-10-24 23:14:35,784 - DEBUG - [server.py:713] - Response sent
+2025-10-24 23:14:45,389 - DEBUG - [server.py:627] - Received message: <mcp.shared.session.RequestResponder object at 0x13a69a3f0>
+2025-10-24 23:14:45,389 - INFO - [server.py:664] - Processing request of type ListToolsRequest
+2025-10-24 23:14:45,389 - DEBUG - [server.py:666] - Dispatching request of type ListToolsRequest
+2025-10-24 23:14:45,390 - INFO - [server.py:107] - Exposing MCP Tool: basic_math
+2025-10-24 23:14:45,390 - INFO - [server.py:107] - Exposing MCP Tool: power
+2025-10-24 23:14:45,390 - INFO - [server.py:107] - Exposing MCP Tool: modulus
+2025-10-24 23:14:45,390 - INFO - [server.py:107] - Exposing MCP Tool: square_root
+2025-10-24 23:14:45,391 - DEBUG - [server.py:713] - Response sent
+2025-10-24 23:33:00,162 - DEBUG - [server.py:627] - Received message: <mcp.shared.session.RequestResponder object at 0x13a6ee570>
+2025-10-24 23:33:00,166 - INFO - [server.py:664] - Processing request of type ListToolsRequest
+2025-10-24 23:33:00,166 - DEBUG - [server.py:666] - Dispatching request of type ListToolsRequest
+2025-10-24 23:33:00,172 - INFO - [server.py:107] - Exposing MCP Tool: basic_math
+2025-10-24 23:33:00,173 - INFO - [server.py:107] - Exposing MCP Tool: power
+2025-10-24 23:33:00,173 - INFO - [server.py:107] - Exposing MCP Tool: modulus
+2025-10-24 23:33:00,173 - INFO - [server.py:107] - Exposing MCP Tool: square_root
+2025-10-24 23:33:00,174 - DEBUG - [server.py:713] - Response sent
+2025-10-24 23:33:18,251 - DEBUG - [server.py:627] - Received message: <mcp.shared.session.RequestResponder object at 0x13a6b27a0>
+2025-10-24 23:33:18,253 - INFO - [server.py:664] - Processing request of type ListToolsRequest
+2025-10-24 23:33:18,253 - DEBUG - [server.py:666] - Dispatching request of type ListToolsRequest
+2025-10-24 23:33:18,255 - INFO - [server.py:107] - Exposing MCP Tool: basic_math
+2025-10-24 23:33:18,255 - INFO - [server.py:107] - Exposing MCP Tool: power
+2025-10-24 23:33:18,256 - INFO - [server.py:107] - Exposing MCP Tool: modulus
+2025-10-24 23:33:18,256 - INFO - [server.py:107] - Exposing MCP Tool: square_root
+2025-10-24 23:33:18,257 - DEBUG - [server.py:713] - Response sent
+2025-10-24 23:33:30,079 - DEBUG - [server.py:627] - Received message: <mcp.shared.session.RequestResponder object at 0x13a6b2470>
+2025-10-24 23:33:30,083 - INFO - [server.py:664] - Processing request of type ListToolsRequest
+2025-10-24 23:33:30,083 - DEBUG - [server.py:666] - Dispatching request of type ListToolsRequest
+2025-10-24 23:33:30,088 - INFO - [server.py:107] - Exposing MCP Tool: basic_math
+2025-10-24 23:33:30,090 - INFO - [server.py:107] - Exposing MCP Tool: power
+2025-10-24 23:33:30,090 - INFO - [server.py:107] - Exposing MCP Tool: modulus
+2025-10-24 23:33:30,090 - INFO - [server.py:107] - Exposing MCP Tool: square_root
+2025-10-24 23:33:30,091 - DEBUG - [server.py:713] - Response sent
